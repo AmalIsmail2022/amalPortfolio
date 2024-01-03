@@ -1,3 +1,4 @@
+import w0 from '../../assets/w0.jpg'
 import w1 from '../../assets/w1.jpg'
 import w2 from '../../assets/w2.jpg'
 import w3 from '../../assets/w3.jpg'
@@ -6,9 +7,19 @@ import w5 from '../../assets/w5.jpg'
 import w6 from '../../assets/w6.jpg'
 import w7 from '../../assets/w7.jpg'
 import w8 from '../../assets/w8.jpg'
+import w10 from '../../assets/w10.jpg'
 export const projectsData = [
+     
     {
         id: 1,
+        image: w0,
+        title: 'INTLGROUPS Website',
+        category: 'web',
+        link: 'https://amalismail2022.github.io/INTLGROUPS/'
+
+    },
+    {
+        id: 2,
         image: w1,
         title: 'Chocolate Website',
         category: 'web',
@@ -16,7 +27,7 @@ export const projectsData = [
 
     },
     {
-        id: 2,
+        id: 3,
         image: w2,
         title: 'Landing Page',
         category: 'web',
@@ -24,7 +35,7 @@ export const projectsData = [
 
     },
     {
-        id: 3,
+        id: 4,
         image: w3,
         title: 'Food Website',
         category: 'web',
@@ -32,7 +43,7 @@ export const projectsData = [
 
     },
     {
-        id: 4,
+        id: 5,
         image: w4,
         title: 'E-Commerce Website',
         category: 'web',
@@ -40,7 +51,15 @@ export const projectsData = [
 
     },
     {
-        id: 5,
+        id: 6,
+        image: w10,
+        title: 'Crud System',
+        category: 'crud',
+        link:'https://6592e8195e2c05daecfdfde4--astonishing-starburst-a203bf.netlify.app/?fbclid=IwAR3vcyIddVkCxOVBK4qnEM70KmKwci-8uOTzLXquoDC_x-XKGEDjODeo1PE#/home'
+
+    },
+    {
+        id: 7,
         image: w5,
         title: 'Crud System',
         category: 'crud',
@@ -48,7 +67,7 @@ export const projectsData = [
 
     },
     {
-        id: 6,
+        id: 8,
         image: w6,
         title: 'Crud System',
         category: 'crud',
@@ -56,7 +75,7 @@ export const projectsData = [
 
     },
     {
-        id: 7,
+        id: 9,
         image: w7,
         title: 'Visual Report',
         category: 'dashboard',
@@ -64,7 +83,7 @@ export const projectsData = [
 
     },
     {
-        id: 8,
+        id: 10,
         image: w8,
         title: 'Visual Report',
         category: 'dashboard',
