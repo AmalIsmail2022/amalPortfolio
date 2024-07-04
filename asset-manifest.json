@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amalPortfolio/static/css/main.25c4e023.css",
-    "main.js": "/amalPortfolio/static/js/main.cf5963e0.js",
+    "main.css": "/amalPortfolio/static/css/main.77dc30d7.css",
+    "main.js": "/amalPortfolio/static/js/main.8517d31c.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
     "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
@@ -19,11 +19,11 @@
     "static/media/about1.JPG": "/amalPortfolio/static/media/about1.1fe30c8e652509bde281.JPG",
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
-    "main.25c4e023.css.map": "/amalPortfolio/static/css/main.25c4e023.css.map",
-    "main.cf5963e0.js.map": "/amalPortfolio/static/js/main.cf5963e0.js.map"
+    "main.77dc30d7.css.map": "/amalPortfolio/static/css/main.77dc30d7.css.map",
+    "main.8517d31c.js.map": "/amalPortfolio/static/js/main.8517d31c.js.map"
   },
   "entrypoints": [
-    "static/css/main.25c4e023.css",
-    "static/js/main.cf5963e0.js"
+    "static/css/main.77dc30d7.css",
+    "static/js/main.8517d31c.js"
   ]
 }
