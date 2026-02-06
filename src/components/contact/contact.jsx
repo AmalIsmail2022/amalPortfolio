@@ -33,7 +33,7 @@ const form = useRef();
                             <i class="fa-regular fa-message contact__card-icon"></i>
                             <h3 className="contact__card-title">Behance</h3>
                             <span className="contact__card-data">Send Me a Message on Behance</span>
-                            <a target='blanck' href="https://www.behance.net/inbox?source=nav20" className="contact__button">Send Me<i class="fa-solid fa-arrow-right contact__button-icon"></i></a>
+                            <a target='blanck' href="https://www.behance.net/amalismail3" className="contact__button">Send Me<i class="fa-solid fa-arrow-right contact__button-icon"></i></a>
 
                         </div>
 

@@ -17,11 +17,11 @@ const Footer = () => {
                 <i class="fa-brands fa-behance uil"></i>
             </a>
 
-             <a href='https://www.linkedin.com/in/amal-ismail-msc-09310729/' className='footer__social-link in' target='_blank'>
+             <a href='https://www.linkedin.com/in/amalismail2024/' className='footer__social-link in' target='_blank'>
                 <i class="fa-brands fa-linkedin-in uil"></i>
             </a>
                 </div>
-                <span className='footer__copy'>&#169; 2023 All Rights Reserved</span>
+                <span className='footer__copy'>&#169; 2026 All Rights Reserved</span>
             </div>
        </footer>
     );

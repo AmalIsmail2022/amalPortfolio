@@ -35,7 +35,7 @@ transition: .3s;
     border-radius: 1.5rem;
 
 }
-.fa-code, .fa-chart-line{
+.fa-code, .fa-object-group{
     display: block;
     font-size: 2rem;
     color: var(--title-color);
