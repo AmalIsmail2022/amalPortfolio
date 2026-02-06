@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/amalPortfolio/static/css/main.2236dd06.css",
-    "main.js": "/amalPortfolio/static/js/main.a2927792.js",
+    "main.js": "/amalPortfolio/static/js/main.30db1d7a.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
     "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
     "static/media/w6.jpg": "/amalPortfolio/static/media/w6.7949c0d8ae427c5ec5fc.jpg",
     "static/media/w4.jpg": "/amalPortfolio/static/media/w4.806ed8ff7ad3aba9e913.jpg",
     "static/media/w5.jpg": "/amalPortfolio/static/media/w5.1dbbd7493508cb1cfe9d.jpg",
+    "static/media/rocks.jpg": "/amalPortfolio/static/media/rocks.1d244f72d9de30da88ab.jpg",
     "static/media/w000.jpg": "/amalPortfolio/static/media/w000.0d4ffd9ca20877fc33ae.jpg",
     "static/media/w0.jpg": "/amalPortfolio/static/media/w0.cd7982011d5c9295fd36.jpg",
     "static/media/soapy.jpg": "/amalPortfolio/static/media/soapy.7fc1066d31c49c3a9596.jpg",
@@ -20,10 +21,10 @@
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
     "main.2236dd06.css.map": "/amalPortfolio/static/css/main.2236dd06.css.map",
-    "main.a2927792.js.map": "/amalPortfolio/static/js/main.a2927792.js.map"
+    "main.30db1d7a.js.map": "/amalPortfolio/static/js/main.30db1d7a.js.map"
   },
   "entrypoints": [
     "static/css/main.2236dd06.css",
-    "static/js/main.a2927792.js"
+    "static/js/main.30db1d7a.js"
   ]
 }
