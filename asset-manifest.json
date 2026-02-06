@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amalPortfolio/static/css/main.77dc30d7.css",
-    "main.js": "/amalPortfolio/static/js/main.8517d31c.js",
+    "main.css": "/amalPortfolio/static/css/main.2236dd06.css",
+    "main.js": "/amalPortfolio/static/js/main.a2927792.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
     "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
@@ -15,15 +15,15 @@
     "static/media/w8.jpg": "/amalPortfolio/static/media/w8.7471c07614d0db488d31.jpg",
     "static/media/w2.jpg": "/amalPortfolio/static/media/w2.6ee3b8ccc01f9692da0d.jpg",
     "static/media/w10.jpg": "/amalPortfolio/static/media/w10.a2a7818ca9bef5b85402.jpg",
-    "static/media/CV.pdf": "/amalPortfolio/static/media/CV.852ec320557deabd09bc.pdf",
+    "static/media/CV.pdf": "/amalPortfolio/static/media/CV.8b6fec41436d95bf20f8.pdf",
     "static/media/about1.JPG": "/amalPortfolio/static/media/about1.1fe30c8e652509bde281.JPG",
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
-    "main.77dc30d7.css.map": "/amalPortfolio/static/css/main.77dc30d7.css.map",
-    "main.8517d31c.js.map": "/amalPortfolio/static/js/main.8517d31c.js.map"
+    "main.2236dd06.css.map": "/amalPortfolio/static/css/main.2236dd06.css.map",
+    "main.a2927792.js.map": "/amalPortfolio/static/js/main.a2927792.js.map"
   },
   "entrypoints": [
-    "static/css/main.77dc30d7.css",
-    "static/js/main.8517d31c.js"
+    "static/css/main.2236dd06.css",
+    "static/js/main.a2927792.js"
   ]
 }
