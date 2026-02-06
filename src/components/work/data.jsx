@@ -1,3 +1,4 @@
+import rocks from "../../assets/rocks.jpg";
 import w0000 from "../../assets/w0000.jpg";
 import w000 from "../../assets/w000.jpg";
 import w0 from "../../assets/w0.jpg";
@@ -14,6 +15,17 @@ import w00 from "../../assets/soapy.jpg";
 export const projectsData = [
   {
     id: 1,
+    image: rocks,
+    title: "Architecture Firm",
+    category: "web",
+    link: "https://vimeo.com/1162512734",
+    description: "Responsive Website & Dashboard",
+    technologies:
+      "Larvel, MySQL, JS, Bootstrap",
+    role: "Full Stack Developer",
+  },
+  {
+    id: 2,
     image: w0000,
     title: "Online Academy",
     category: "web",
@@ -24,7 +36,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 2,
+    id: 3,
     image: w000,
     title: "E-Commerce Website",
     category: "web",
@@ -34,7 +46,7 @@ export const projectsData = [
     role: "Frontend Developer",
   },
   {
-    id: 3,
+    id: 4,
     image: w00,
     title: "Soap Website",
     category: "web",
@@ -44,7 +56,7 @@ export const projectsData = [
     role: "Frontend Developer",
   },
   {
-    id: 4,
+    id: 5,
     image: w0,
     title: "INTLGROUPS Website",
     category: "web",
@@ -54,7 +66,7 @@ export const projectsData = [
     role: "Frontend Developer",
   },
   {
-    id: 5,
+    id: 6,
     image: w1,
     title: "Chocolate Website",
     category: "web",
@@ -65,7 +77,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 6,
+    id: 7,
     image: w2,
     title: "Landing Page",
     category: "web",
@@ -75,7 +87,7 @@ export const projectsData = [
     role: "Frontend Developer",
   },
   {
-    id: 7,
+    id: 8,
     image: w3,
     title: "Food Website",
     category: "web",
@@ -85,7 +97,7 @@ export const projectsData = [
     role: "Frontend Developer",
   },
   {
-    id: 8,
+    id: 9,
     image: w4,
     title: "E-Commerce Website",
     category: "web",
@@ -95,7 +107,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 9,
+    id: 10,
     image: w10,
     title: "Employees Crud System",
     category: "crud",
@@ -106,7 +118,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 10,
+    id: 11,
     image: w5,
     title: "Employees Crud System",
     category: "crud",
@@ -116,7 +128,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 11,
+    id: 12,
     image: w6,
     title: "Academy Crud System",
     category: "crud",
@@ -126,7 +138,7 @@ export const projectsData = [
     role: "Full Stack Developer",
   },
   {
-    id: 12,
+    id: 13,
     image: w7,
     title: "Visual Report",
     category: "dashboard",
@@ -136,7 +148,7 @@ export const projectsData = [
     role: "Visual Report Designer",
   },
   {
-    id: 13,
+    id: 14,
     image: w8,
     title: "Visual Report",
     category: "dashboard",
