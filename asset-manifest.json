@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amalPortfolio/static/css/main.2236dd06.css",
-    "main.js": "/amalPortfolio/static/js/main.30db1d7a.js",
+    "main.js": "/amalPortfolio/static/js/main.08075694.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
     "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
@@ -14,17 +14,19 @@
     "static/media/soapy.jpg": "/amalPortfolio/static/media/soapy.7fc1066d31c49c3a9596.jpg",
     "static/media/w0000.jpg": "/amalPortfolio/static/media/w0000.90e545b25b820fccc525.jpg",
     "static/media/w8.jpg": "/amalPortfolio/static/media/w8.7471c07614d0db488d31.jpg",
+    "static/media/amank.jpg": "/amalPortfolio/static/media/amank.5b5c8e324e9a2e999b37.jpg",
     "static/media/w2.jpg": "/amalPortfolio/static/media/w2.6ee3b8ccc01f9692da0d.jpg",
+    "static/media/clinic.jpg": "/amalPortfolio/static/media/clinic.1ce228dff9a4f9f1c5b8.jpg",
     "static/media/w10.jpg": "/amalPortfolio/static/media/w10.a2a7818ca9bef5b85402.jpg",
-    "static/media/CV.pdf": "/amalPortfolio/static/media/CV.8b6fec41436d95bf20f8.pdf",
+    "static/media/CV.pdf": "/amalPortfolio/static/media/CV.72f230b2837eb469a895.pdf",
     "static/media/about1.JPG": "/amalPortfolio/static/media/about1.1fe30c8e652509bde281.JPG",
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
     "main.2236dd06.css.map": "/amalPortfolio/static/css/main.2236dd06.css.map",
-    "main.30db1d7a.js.map": "/amalPortfolio/static/js/main.30db1d7a.js.map"
+    "main.08075694.js.map": "/amalPortfolio/static/js/main.08075694.js.map"
   },
   "entrypoints": [
     "static/css/main.2236dd06.css",
-    "static/js/main.30db1d7a.js"
+    "static/js/main.08075694.js"
   ]
 }
