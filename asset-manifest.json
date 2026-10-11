@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amalPortfolio/static/css/main.2236dd06.css",
-    "main.js": "/amalPortfolio/static/js/main.08075694.js",
+    "main.js": "/amalPortfolio/static/js/main.d16cb820.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
     "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
@@ -17,16 +17,18 @@
     "static/media/amank.jpg": "/amalPortfolio/static/media/amank.5b5c8e324e9a2e999b37.jpg",
     "static/media/w2.jpg": "/amalPortfolio/static/media/w2.6ee3b8ccc01f9692da0d.jpg",
     "static/media/clinic.jpg": "/amalPortfolio/static/media/clinic.1ce228dff9a4f9f1c5b8.jpg",
+    "static/media/forma.jpg": "/amalPortfolio/static/media/forma.2f5efe62c3c0040ec1d7.jpg",
     "static/media/w10.jpg": "/amalPortfolio/static/media/w10.a2a7818ca9bef5b85402.jpg",
     "static/media/CV.pdf": "/amalPortfolio/static/media/CV.72f230b2837eb469a895.pdf",
+    "static/media/career.jpg": "/amalPortfolio/static/media/career.4233dfb71e0523a22d37.jpg",
     "static/media/about1.JPG": "/amalPortfolio/static/media/about1.1fe30c8e652509bde281.JPG",
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
     "main.2236dd06.css.map": "/amalPortfolio/static/css/main.2236dd06.css.map",
-    "main.08075694.js.map": "/amalPortfolio/static/js/main.08075694.js.map"
+    "main.d16cb820.js.map": "/amalPortfolio/static/js/main.d16cb820.js.map"
   },
   "entrypoints": [
     "static/css/main.2236dd06.css",
-    "static/js/main.08075694.js"
+    "static/js/main.d16cb820.js"
   ]
 }
