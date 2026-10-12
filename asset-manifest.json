@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/amalPortfolio/static/css/main.2236dd06.css",
-    "main.js": "/amalPortfolio/static/js/main.749fda5b.js",
+    "main.js": "/amalPortfolio/static/js/main.d607c66a.js",
     "static/media/w1.jpg": "/amalPortfolio/static/media/w1.03df3526c7ac040a615c.jpg",
     "static/media/w3.jpg": "/amalPortfolio/static/media/w3.ae9858b6698ac00d81f5.jpg",
-    "static/media/w7.jpg": "/amalPortfolio/static/media/w7.1d685ad193b43a61075e.jpg",
     "static/media/w6.jpg": "/amalPortfolio/static/media/w6.7949c0d8ae427c5ec5fc.jpg",
     "static/media/w4.jpg": "/amalPortfolio/static/media/w4.806ed8ff7ad3aba9e913.jpg",
     "static/media/w5.jpg": "/amalPortfolio/static/media/w5.1dbbd7493508cb1cfe9d.jpg",
@@ -13,10 +12,11 @@
     "static/media/w0.jpg": "/amalPortfolio/static/media/w0.cd7982011d5c9295fd36.jpg",
     "static/media/soapy.jpg": "/amalPortfolio/static/media/soapy.7fc1066d31c49c3a9596.jpg",
     "static/media/w0000.jpg": "/amalPortfolio/static/media/w0000.90e545b25b820fccc525.jpg",
-    "static/media/w8.jpg": "/amalPortfolio/static/media/w8.7471c07614d0db488d31.jpg",
     "static/media/amank.jpg": "/amalPortfolio/static/media/amank.5b5c8e324e9a2e999b37.jpg",
     "static/media/w2.jpg": "/amalPortfolio/static/media/w2.6ee3b8ccc01f9692da0d.jpg",
     "static/media/clinic.jpg": "/amalPortfolio/static/media/clinic.1ce228dff9a4f9f1c5b8.jpg",
+    "static/media/w8.jpg": "/amalPortfolio/static/media/w8.52afeb92fc53ef16dc74.jpg",
+    "static/media/w7.jpg": "/amalPortfolio/static/media/w7.eaed650cbe1dbf4314ff.jpg",
     "static/media/forma.jpg": "/amalPortfolio/static/media/forma.2f5efe62c3c0040ec1d7.jpg",
     "static/media/w10.jpg": "/amalPortfolio/static/media/w10.a2a7818ca9bef5b85402.jpg",
     "static/media/CV.pdf": "/amalPortfolio/static/media/CV.72f230b2837eb469a895.pdf",
@@ -25,10 +25,10 @@
     "static/media/1562453314251.jfif": "/amalPortfolio/static/media/1562453314251.453ede948b9bd435c347.jfif",
     "index.html": "/amalPortfolio/index.html",
     "main.2236dd06.css.map": "/amalPortfolio/static/css/main.2236dd06.css.map",
-    "main.749fda5b.js.map": "/amalPortfolio/static/js/main.749fda5b.js.map"
+    "main.d607c66a.js.map": "/amalPortfolio/static/js/main.d607c66a.js.map"
   },
   "entrypoints": [
     "static/css/main.2236dd06.css",
-    "static/js/main.749fda5b.js"
+    "static/js/main.d607c66a.js"
   ]
 }
